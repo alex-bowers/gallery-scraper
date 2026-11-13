@@ -1,0 +1,12 @@
+{
+  "name": "gallery-scraper",
+  "version": "1.0.0",
+  "description": "Gallery image collection with a Codex skill",
+  "type": "module",
+  "scripts": {
+    "start": "node skills/web-gallery/scripts/session.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}

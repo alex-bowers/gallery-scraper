@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Gallery"
+  short_description: "Collect and verify web gallery images in chat"
+  default_prompt: "Use $web-gallery to save up to 20 gallery images from this page URL, checking the best available image versions."
